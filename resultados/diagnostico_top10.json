@@ -1,0 +1,2006 @@
+{
+ "R0": {
+  "D1": [
+   {
+    "rank": 1,
+    "score": 0.678,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 5-7",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.6537,
+    "archivo": "programa_admon_sistemas..pdf",
+    "loc": "p. 1",
+    "match": [
+     "p. 1"
+    ]
+   },
+   {
+    "rank": 3,
+    "score": 0.6138,
+    "archivo": "programa_admon_sistemas..pdf",
+    "loc": "p. 2-3",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.6078,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «2. Perfil profesional», párrafos 30-32",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.6013,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 20-22",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.5975,
+    "archivo": "MallaCurricularAcuerdo05del2023.pdf",
+    "loc": "p. 1",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.5949,
+    "archivo": "MallaCurricularAcuerdo05del2023.pdf",
+    "loc": "p. 1",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.5811,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 8-10",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.5717,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 5-6",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.5708,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 14-16",
+    "match": []
+   }
+  ],
+  "D2": [
+   {
+    "rank": 1,
+    "score": 0.7978,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 7",
+    "match": [
+     "p. 7, Art. 30"
+    ]
+   },
+   {
+    "rank": 2,
+    "score": 0.7282,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 6",
+    "match": [
+     "p. 6, Art. 27"
+    ]
+   },
+   {
+    "rank": 3,
+    "score": 0.6902,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 7-8",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.6861,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 8-9",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.6611,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 5-6",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.6516,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 6-7",
+    "match": [
+     "p. 7, Art. 30"
+    ]
+   },
+   {
+    "rank": 7,
+    "score": 0.6213,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 9-10",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.6156,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 9",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.5393,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 5",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.527,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 3",
+    "match": []
+   }
+  ],
+  "D3": [
+   {
+    "rank": 1,
+    "score": 0.7732,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 2",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.7456,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 4-5",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.7243,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 5",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.7225,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 2-3",
+    "match": [
+     "p. 3, segundo periodo de 2026"
+    ]
+   },
+   {
+    "rank": 5,
+    "score": 0.6933,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.6725,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3-4",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.6323,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 9-10",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.6054,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 1-2",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.599,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 1",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.5816,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 1-2",
+    "match": []
+   }
+  ],
+  "M1": [
+   {
+    "rank": 1,
+    "score": 0.5886,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 1-3",
+    "match": [
+     "p. 3, generalidades"
+    ]
+   },
+   {
+    "rank": 2,
+    "score": 0.5405,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 10-13",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.5221,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 9",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.4979,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 12-14",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.4894,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 2",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.4755,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 2-3",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.4639,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 9-10",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.4634,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 11-12",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.4554,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 10-11",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.454,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 3",
+    "match": []
+   }
+  ],
+  "M2": [
+   {
+    "rank": 1,
+    "score": 0.8261,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 4-5",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.7726,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3-4",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.6949,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 2-3",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.67,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 9-10",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.6382,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 2",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.6174,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 5",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.6106,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 1-2",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.6028,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 7-8",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.5932,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.591,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 12",
+    "match": []
+   }
+  ],
+  "M3": [
+   {
+    "rank": 1,
+    "score": 0.6484,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 56-58",
+    "match": [
+     "sección «3. Malla curricular», Bases de Datos I"
+    ]
+   },
+   {
+    "rank": 2,
+    "score": 0.5779,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 72-79",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.5742,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 59-63",
+    "match": [
+     "sección «3. Malla curricular», Ingeniería de Software"
+    ]
+   },
+   {
+    "rank": 4,
+    "score": 0.5523,
+    "archivo": "programa_admon_sistemas..pdf",
+    "loc": "p. 1",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.5273,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 40-55",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.5255,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 5-7",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.5114,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 69-71",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.5109,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «2. Perfil profesional», párrafos 30-32",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.5044,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 64-68",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.5043,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 5-6",
+    "match": []
+   }
+  ],
+  "U1": [
+   {
+    "rank": 1,
+    "score": 0.5684,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «4. Contacto del programa», párrafos 90-93",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.5129,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 14",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.5014,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 6-8",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.4891,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «4. Contacto del programa», párrafos 100-102",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.4881,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «Inicio», párrafo 3",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.4729,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «4. Contacto del programa», párrafos 94-96",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.4727,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 3-4",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.4575,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 1",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.4032,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 20-22",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.3976,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 1-2",
+    "match": []
+   }
+  ],
+  "U2": [
+   {
+    "rank": 1,
+    "score": 0.6387,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 4-5",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.5701,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 5",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.4888,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 2-3",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.4884,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 3-4",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.4883,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 2",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.476,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3-4",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.4564,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 5",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.453,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 9-10",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.4503,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 12",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.4342,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 1-3",
+    "match": []
+   }
+  ],
+  "U3": [
+   {
+    "rank": 1,
+    "score": 0.6522,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «5. Normativa y calendario», párrafos 107-109",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.5947,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 11-13",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.5388,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 20-22",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.5345,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 1",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.5231,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 5-6",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.5224,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.5123,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 14-16",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.5113,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 80-82",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.4941,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «4. Contacto del programa», párrafos 97-99",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.4848,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «4. Contacto del programa», párrafos 94-96",
+    "match": []
+   }
+  ]
+ },
+ "R1": {
+  "D1": [
+   {
+    "rank": 1,
+    "score": 0.678,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 5-7",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.6537,
+    "archivo": "programa_admon_sistemas..pdf",
+    "loc": "p. 1",
+    "match": [
+     "p. 1"
+    ]
+   },
+   {
+    "rank": 3,
+    "score": 0.6197,
+    "archivo": "programa_admon_sistemas..pdf",
+    "loc": "p. 2",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.6138,
+    "archivo": "programa_admon_sistemas..pdf",
+    "loc": "p. 2-3",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.6078,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «2. Perfil profesional», párrafos 30-32",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.6013,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 20-22",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.6005,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 5-6",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.5975,
+    "archivo": "MallaCurricularAcuerdo05del2023.pdf",
+    "loc": "p. 1",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.5949,
+    "archivo": "MallaCurricularAcuerdo05del2023.pdf",
+    "loc": "p. 1",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.5811,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 8-10",
+    "match": []
+   }
+  ],
+  "D2": [
+   {
+    "rank": 1,
+    "score": 0.7688,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 6",
+    "match": [
+     "p. 6, Art. 27"
+    ]
+   },
+   {
+    "rank": 2,
+    "score": 0.7307,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 7",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.7207,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 7",
+    "match": [
+     "p. 7, Art. 30"
+    ]
+   },
+   {
+    "rank": 4,
+    "score": 0.7048,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 7-8",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.7013,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 7",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.6835,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 5-6",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.6798,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 6",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.6692,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 6-7",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.6608,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 5",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.6251,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 8",
+    "match": []
+   }
+  ],
+  "D3": [
+   {
+    "rank": 1,
+    "score": 0.8102,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 4",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.7946,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.7686,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 2",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.7518,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 4",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.7363,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3",
+    "match": [
+     "p. 3, segundo periodo de 2026"
+    ]
+   },
+   {
+    "rank": 6,
+    "score": 0.717,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 4-5",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.7137,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 4-5",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.7074,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 5",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.7043,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 1",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.6811,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 1-2",
+    "match": []
+   }
+  ],
+  "M1": [
+   {
+    "rank": 1,
+    "score": 0.6533,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 12-13",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.6328,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 2-3",
+    "match": [
+     "p. 3, generalidades"
+    ]
+   },
+   {
+    "rank": 3,
+    "score": 0.6008,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 11",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.5952,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 14",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.59,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 4",
+    "match": [
+     "p. 4, Art. 13"
+    ]
+   },
+   {
+    "rank": 6,
+    "score": 0.5886,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 1-2",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.5645,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 10-12",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.5543,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 6-7",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.5514,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 3",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.5447,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 5-6",
+    "match": []
+   }
+  ],
+  "M2": [
+   {
+    "rank": 1,
+    "score": 0.8261,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 4",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.814,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 4",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.7605,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 4-5",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.7105,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.7051,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.6894,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 2-3",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.6865,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 4-5",
+    "match": [
+     "p. 4, segundo periodo de 2026"
+    ]
+   },
+   {
+    "rank": 8,
+    "score": 0.67,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 9-10",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.6507,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 2",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.6499,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 4",
+    "match": []
+   }
+  ],
+  "M3": [
+   {
+    "rank": 1,
+    "score": 0.6484,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 56-58",
+    "match": [
+     "sección «3. Malla curricular», Bases de Datos I"
+    ]
+   },
+   {
+    "rank": 2,
+    "score": 0.5779,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 72-79",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.5742,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 59-63",
+    "match": [
+     "sección «3. Malla curricular», Ingeniería de Software"
+    ]
+   },
+   {
+    "rank": 4,
+    "score": 0.5525,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 5-6",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.5523,
+    "archivo": "programa_admon_sistemas..pdf",
+    "loc": "p. 1",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.5273,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 40-55",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.5265,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 12-13",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.5255,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 5-7",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.5114,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 69-71",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.5114,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 5",
+    "match": []
+   }
+  ],
+  "U1": [
+   {
+    "rank": 1,
+    "score": 0.5684,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «4. Contacto del programa», párrafos 90-93",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.4891,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «4. Contacto del programa», párrafos 100-102",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.4881,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «Inicio», párrafo 3",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.4729,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «4. Contacto del programa», párrafos 94-96",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.4692,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 14",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.4575,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 1",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.4178,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 11",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.4129,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 1-2",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.4041,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 6",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.4032,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 20-22",
+    "match": []
+   }
+  ],
+  "U2": [
+   {
+    "rank": 1,
+    "score": 0.6094,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 4",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.5664,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 4",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.5457,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 5",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.4663,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.4617,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.4604,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 1",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.458,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 3-4",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.4574,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 13",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.4564,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 5",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.453,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 9-10",
+    "match": []
+   }
+  ],
+  "U3": [
+   {
+    "rank": 1,
+    "score": 0.6522,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «5. Normativa y calendario», párrafos 107-109",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.5947,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 11-13",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.5571,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 5",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.555,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.5403,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 5",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.5388,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 20-22",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.5345,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 1",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.5326,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.5123,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 14-16",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.5113,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 80-82",
+    "match": []
+   }
+  ]
+ },
+ "R2": {
+  "D1": [
+   {
+    "rank": 1,
+    "score": 0.0328,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 5-7",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.0308,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 8-10",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.0302,
+    "archivo": "programa_admon_sistemas..pdf",
+    "loc": "p. 1",
+    "match": [
+     "p. 1"
+    ]
+   },
+   {
+    "rank": 4,
+    "score": 0.0301,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «2. Perfil profesional», párrafos 30-32",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.0299,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 14-16",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.0293,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 11-13",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.0289,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «Inicio», párrafo 1",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.0285,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 20-22",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.0278,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «2. Perfil profesional», párrafos 24-26",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.0274,
+    "archivo": "programa_admon_sistemas..pdf",
+    "loc": "p. 2-3",
+    "match": []
+   }
+  ],
+  "D2": [
+   {
+    "rank": 1,
+    "score": 0.0325,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 6",
+    "match": [
+     "p. 6, Art. 27"
+    ]
+   },
+   {
+    "rank": 2,
+    "score": 0.0323,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 7",
+    "match": [
+     "p. 7, Art. 30"
+    ]
+   },
+   {
+    "rank": 3,
+    "score": 0.0315,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 5-6",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.031,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 7-8",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.0305,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 6-7",
+    "match": [
+     "p. 7, Art. 30"
+    ]
+   },
+   {
+    "rank": 6,
+    "score": 0.0299,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 8-9",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.029,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 3",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.0274,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 3-4",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.0272,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 8",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.0271,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 4-5",
+    "match": []
+   }
+  ],
+  "D3": [
+   {
+    "rank": 1,
+    "score": 0.0325,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 2",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.032,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 4-5",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.0315,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3-4",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.0308,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 2-3",
+    "match": [
+     "p. 3, segundo periodo de 2026"
+    ]
+   },
+   {
+    "rank": 5,
+    "score": 0.0308,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.03,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 5",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.0296,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 1-2",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.0295,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 5",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.0292,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 1",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.0284,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 4-5",
+    "match": []
+   }
+  ],
+  "M1": [
+   {
+    "rank": 1,
+    "score": 0.032,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 1-3",
+    "match": [
+     "p. 3, generalidades"
+    ]
+   },
+   {
+    "rank": 2,
+    "score": 0.032,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 9",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.0308,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 12-14",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.0301,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 2",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.0299,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 9-10",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.0292,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «5. Normativa y calendario», párrafos 104-106",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.0289,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 3-4",
+    "match": [
+     "p. 4, Art. 13"
+    ]
+   },
+   {
+    "rank": 8,
+    "score": 0.0283,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 10-13",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.0281,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 2-3",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.0278,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 1-2",
+    "match": []
+   }
+  ],
+  "M2": [
+   {
+    "rank": 1,
+    "score": 0.0325,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 4-5",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.0313,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3-4",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.0292,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 1-2",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.0288,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 4-5",
+    "match": [
+     "p. 4, segundo periodo de 2026"
+    ]
+   },
+   {
+    "rank": 5,
+    "score": 0.0284,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 1-2",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.0282,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 2",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.0282,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.0278,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 5",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.0278,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 2-3",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.0276,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 10-11",
+    "match": []
+   }
+  ],
+  "M3": [
+   {
+    "rank": 1,
+    "score": 0.0325,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 56-58",
+    "match": [
+     "sección «3. Malla curricular», Bases de Datos I"
+    ]
+   },
+   {
+    "rank": 2,
+    "score": 0.0323,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 59-63",
+    "match": [
+     "sección «3. Malla curricular», Ingeniería de Software"
+    ]
+   },
+   {
+    "rank": 3,
+    "score": 0.0313,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 72-79",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.0305,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 5-7",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.0304,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 64-68",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.0299,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 40-55",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.0292,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 69-71",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.0288,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 86-88",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.0271,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 83-85",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.027,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «3. Malla curricular», párrafos 80-82",
+    "match": []
+   }
+  ],
+  "U1": [
+   {
+    "rank": 1,
+    "score": 0.0328,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «4. Contacto del programa», párrafos 90-93",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.0313,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «4. Contacto del programa», párrafos 94-96",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.0313,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 6-8",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.0308,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «4. Contacto del programa», párrafos 100-102",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.0299,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 3-4",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.0277,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 20-22",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.0275,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 4-6",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.0274,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 11-13",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.0272,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 1",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.0265,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 12-14",
+    "match": []
+   }
+  ],
+  "U2": [
+   {
+    "rank": 1,
+    "score": 0.0325,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 4-5",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.0318,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 5",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.0315,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3-4",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.0313,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 2",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.0308,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 2-3",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.0303,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 3-4",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.0289,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 1-2",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.0284,
+    "archivo": "estatuto_estudiantil.pdf",
+    "loc": "p. 12",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.028,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 1",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.0278,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3",
+    "match": []
+   }
+  ],
+  "U3": [
+   {
+    "rank": 1,
+    "score": 0.0328,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «5. Normativa y calendario», párrafos 107-109",
+    "match": []
+   },
+   {
+    "rank": 2,
+    "score": 0.0308,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 3",
+    "match": []
+   },
+   {
+    "rank": 3,
+    "score": 0.0304,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 11-13",
+    "match": []
+   },
+   {
+    "rank": 4,
+    "score": 0.0301,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 5-6",
+    "match": []
+   },
+   {
+    "rank": 5,
+    "score": 0.0294,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «4. Contacto del programa», párrafos 94-96",
+    "match": []
+   },
+   {
+    "rank": 6,
+    "score": 0.0291,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 1",
+    "match": []
+   },
+   {
+    "rank": 7,
+    "score": 0.029,
+    "archivo": "faq_estudiantil.md",
+    "loc": "sección «1. Información general del programa», párrafos 20-22",
+    "match": []
+   },
+   {
+    "rank": 8,
+    "score": 0.0284,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 3-4",
+    "match": []
+   },
+   {
+    "rank": 9,
+    "score": 0.0282,
+    "archivo": "InstructivoMatriula.pdf",
+    "loc": "p. 1-3",
+    "match": []
+   },
+   {
+    "rank": 10,
+    "score": 0.0277,
+    "archivo": "calendario-academico-pregrado.pdf",
+    "loc": "p. 5",
+    "match": []
+   }
+  ]
+ }
+}

@@ -1,0 +1,36 @@
+{
+  "fecha_registro": "2026-11-18T20:30:00-05:00",
+  "nota": "Hipótesis registradas antes de ejecutar las corridas finales. No se modificaron después de observar los resultados.",
+  "comparaciones": [
+    {
+      "id": "H1",
+      "comparacion": "R1 vs R0 (fragmentación 200/30 frente a 400/60)",
+      "esperado": "R1 debería aumentar la precisión de la evidencia para preguntas factuales cortas y reducir tokens de contexto; sin embargo, al cortar artículos y respuestas largas, podría disminuir la cobertura en M2 y M3. La corrección podría mantenerse o bajar ligeramente.",
+      "razon": "Un fragmento más pequeño concentra la señal semántica, pero tiene menos probabilidad de contener todos los datos que una pregunta compuesta necesita."
+    },
+    {
+      "id": "H2",
+      "comparacion": "R2 vs R0 (búsqueda híbrida densa + léxica, k=6, frente a búsqueda densa, k=6)",
+      "esperado": "R2 debería mejorar la cobertura de evidencia en preguntas con códigos, fechas o frases exactas (M3, M2, D3), porque la señal léxica rescata coincidencias que la similitud semántica diluye. El costo esperado es algo más de latencia y mayor riesgo de ruido en preguntas conceptuales.",
+      "razon": "La búsqueda densa representa el significado, pero puede no priorizar identificadores exactos como 4100553 o «diciembre 11»; la fusión con TF-IDF recupera esos términos sin abandonar la semántica."
+    },
+    {
+      "id": "H3",
+      "comparacion": "C0 vs R0 (sin recuperación frente a RAG)",
+      "esperado": "C0 responderá con fluidez datos generales, pero fallará en datos institucionales específicos (fechas, códigos, artículos) y no podrá abstenerse de forma fiable en U1-U3. R0 tendrá menor corrección en conocimiento general, pero mayor fidelidad y abstención.",
+      "razon": "El LLM no tiene en sus pesos el corpus local ni la fecha de corte de los documentos; el RAG aporta evidencia verificable."
+    },
+    {
+      "id": "H4",
+      "comparacion": "E1 vs R0 (all-MiniLM-L6-v2 frente al modelo multilingüe)",
+      "esperado": "E1 perderá cobertura y corrección porque all-MiniLM-L6-v2 está optimizado para inglés y el corpus/consultas están en español. La diferencia debería ser más visible en preguntas con paráfrasis y en M2/M3.",
+      "razon": "La representación multilingüe alinea mejor términos y paráfrasis en español."
+    },
+    {
+      "id": "H5",
+      "comparacion": "E2 vs R0 (Gemini 2.5 Flash frente a GPT-4o-mini)",
+      "esperado": "E2 podría redactar mejor y citar con más precisión, pero también ser más propenso a completar con conocimiento externo. La abstención en U1-U3 podría variar; se evalúa con la misma recuperación y el mismo prompt.",
+      "razon": "El comportamiento de instrucciones y la calibración de abstención cambian entre familias de modelos."
+    }
+  ]
+}

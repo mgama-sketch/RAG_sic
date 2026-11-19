@@ -1,0 +1,203 @@
+{
+  "descripcion": "Conjunto de evaluación del protocolo. 3 preguntas directas (un solo documento), 3 que exigen combinar al menos dos documentos y 3 sin respuesta en el corpus. Las referencias incluyen archivo, página/sección y los términos que deben aparecer en el pasaje.",
+  "version": "2.0",
+  "fecha_creacion": "2026-11-18",
+  "preguntas": [
+    {
+      "id": "D1",
+      "tipo": "directa",
+      "pregunta": "¿Qué título otorga el programa de Administración de Sistemas Informáticos y cuántos semestres dura?",
+      "respuesta_esperada": "Otorga el título de Administrador(a) de Sistemas Informáticos y tiene una duración de 10 semestres.",
+      "documentos": ["programa_admon_sistemas..pdf"],
+      "evidencia": [
+        {
+          "archivo": "programa_admon_sistemas..pdf",
+          "pagina": 1,
+          "localizador": "p. 1",
+          "terminos": ["Administrador(a) de Sistemas Informáticos", "10 semestres"],
+          "descripcion": "Título y duración en la ficha del programa."
+        }
+      ],
+      "criterios_correccion": [
+        "Menciona el título Administrador(a) de Sistemas Informáticos.",
+        "Indica 10 semestres."
+      ]
+    },
+    {
+      "id": "D2",
+      "tipo": "directa",
+      "pregunta": "¿Cuál es la nota mínima aprobatoria en pregrado y cuántas evaluaciones ordinarias como mínimo debe realizar cada asignatura?",
+      "respuesta_esperada": "La nota mínima aprobatoria es 3.0 y cada asignatura de pregrado debe tener al menos tres evaluaciones ordinarias, salvo excepción del programa-asignatura.",
+      "documentos": ["estatuto_estudiantil.pdf"],
+      "evidencia": [
+        {
+          "archivo": "estatuto_estudiantil.pdf",
+          "pagina": 6,
+          "localizador": "p. 6, Art. 27",
+          "terminos": ["tres (3)", "evaluaciones ordinarias"],
+          "descripcion": "Artículo 27: mínimo de tres evaluaciones ordinarias."
+        },
+        {
+          "archivo": "estatuto_estudiantil.pdf",
+          "pagina": 7,
+          "localizador": "p. 7, Art. 30",
+          "terminos": ["3.0", "calificación aprobatoria mínima"],
+          "descripcion": "Artículo 30: escala 0.0 a 5.0 y aprobación con 3.0."
+        }
+      ],
+      "criterios_correccion": [
+        "Indica 3.0 como nota mínima aprobatoria.",
+        "Indica tres evaluaciones ordinarias como mínimo."
+      ]
+    },
+    {
+      "id": "D3",
+      "tipo": "directa",
+      "pregunta": "¿Cuándo inician las clases del segundo periodo académico de 2026 y hasta qué fecha se pueden adicionar o cancelar asignaturas?",
+      "respuesta_esperada": "Las clases inician el 24 de agosto de 2026 y el periodo de adición/cancelación de asignaturas va del 24 de agosto al 4 de septiembre de 2026.",
+      "documentos": ["calendario-academico-pregrado.pdf"],
+      "evidencia": [
+        {
+          "archivo": "calendario-academico-pregrado.pdf",
+          "pagina": 3,
+          "localizador": "p. 3, segundo periodo de 2026",
+          "terminos": ["Inicio de clases", "Agosto 24", "septiembre 04"],
+          "descripcion": "Inicio de clases y periodo de adición/cancelación."
+        }
+      ],
+      "criterios_correccion": [
+        "Indica el 24 de agosto de 2026 como inicio de clases.",
+        "Indica el 4 de septiembre de 2026 como cierre de adición/cancelación."
+      ]
+    },
+    {
+      "id": "M1",
+      "tipo": "multidocumento",
+      "pregunta": "¿Qué documentos personales exige el instructivo de matrícula y qué acciones debe realizar el admitido según el Artículo 13 del Estatuto para la matrícula inicial?",
+      "respuesta_esperada": "El instructivo exige copia digital del documento de identidad al 150% y copia digital del registro civil de nacimiento con parentesco. El Artículo 13 del Estatuto exige entregar la documentación exigida, pagar los costos establecidos por la Universidad y realizar la inscripción.",
+      "documentos": ["InstructivoMatriula.pdf", "estatuto_estudiantil.pdf"],
+      "evidencia": [
+        {
+          "archivo": "InstructivoMatriula.pdf",
+          "pagina": 3,
+          "localizador": "p. 3, generalidades",
+          "terminos": ["documento de identidad al 150%", "registro civil de nacimiento"],
+          "descripcion": "Documentos personales obligatorios."
+        },
+        {
+          "archivo": "estatuto_estudiantil.pdf",
+          "pagina": 4,
+          "localizador": "p. 4, Art. 13",
+          "terminos": ["Entregar la documentación exigida", "Pagar los costos", "Realizar la inscripción"],
+          "descripcion": "Tres acciones de la matrícula inicial."
+        }
+      ],
+      "criterios_correccion": [
+        "Menciona los dos documentos del instructivo.",
+        "Menciona las tres acciones del Artículo 13 del Estatuto."
+      ]
+    },
+    {
+      "id": "M2",
+      "tipo": "multidocumento",
+      "pregunta": "Para el primer periodo de 2026, ¿qué condiciones establece el Estatuto para cancelar una asignatura después del 50 % del periodo y hasta qué fecha se puede solicitar la cancelación justificada ante el Consejo de Facultad?",
+      "respuesta_esperada": "Después de completado el 50 % del periodo, la cancelación sólo procede si el Consejo de Facultad la autoriza mediante solicitud justificada del estudiante y si este mantiene inscritas las asignaturas con el número mínimo de créditos de los Artículos 9 y 10. En el primer periodo de 2026 la cancelación justificada ante el Consejo de Facultad se puede solicitar hasta el 24 de julio.",
+      "documentos": ["estatuto_estudiantil.pdf", "calendario-academico-pregrado.pdf"],
+      "evidencia": [
+        {
+          "archivo": "estatuto_estudiantil.pdf",
+          "pagina": 4,
+          "localizador": "p. 4, Art. 15 y parágrafo 1",
+          "terminos": ["Consejos de Facultad podrán autorizar", "solicitud justificada"],
+          "descripcion": "Condiciones de cancelación posterior."
+        },
+        {
+          "archivo": "estatuto_estudiantil.pdf",
+          "pagina": 4,
+          "localizador": "p. 4-5, parágrafo 2 del Art. 15",
+          "terminos": ["número mínimo de créditos"],
+          "descripcion": "Mínimo de créditos que debe mantenerse inscrito.",
+          "obligatoria": false
+        },
+        {
+          "archivo": "calendario-academico-pregrado.pdf",
+          "pagina": 3,
+          "localizador": "p. 3, primer periodo de 2026",
+          "terminos": ["Cancelación justificada de asignaturas ante el Consejo de Facultad", "julio 24"],
+          "descripcion": "Fecha límite de cancelación justificada en el primer periodo de 2026."
+        }
+      ],
+      "criterios_correccion": [
+        "Explica que se requiere autorización del Consejo de Facultad y solicitud justificada.",
+        "Indica que debe mantenerse el mínimo de créditos de los Artículos 9 y 10.",
+        "Indica el 24 de julio de 2026 como fecha límite."
+      ]
+    },
+    {
+      "id": "M3",
+      "tipo": "multidocumento",
+      "pregunta": "¿Qué requisitos establece el Artículo 52 del Estatuto para obtener el título y cuántos semestres dura el programa de Administración de Sistemas Informáticos?",
+      "respuesta_esperada": "El Estatuto exige haber aprobado el mínimo de créditos del plan de estudios y haber cumplido los requisitos académicos adicionales y administrativos de la Universidad. El programa de Administración de Sistemas Informáticos dura 10 semestres.",
+      "documentos": ["estatuto_estudiantil.pdf", "programa_admon_sistemas..pdf"],
+      "evidencia": [
+        {
+          "archivo": "estatuto_estudiantil.pdf",
+          "pagina": 11,
+          "localizador": "p. 11, Art. 52",
+          "terminos": ["Haber aprobado el mínimo de créditos", "requisitos académicos adicionales"],
+          "descripcion": "Requisitos de grado del Artículo 52."
+        },
+        {
+          "archivo": "programa_admon_sistemas..pdf",
+          "pagina": 1,
+          "localizador": "p. 1, ficha del programa",
+          "terminos": ["10", "Semestres"],
+          "descripcion": "Duración del programa."
+        }
+      ],
+      "criterios_correccion": [
+        "Menciona los dos requisitos del Artículo 52 del Estatuto.",
+        "Indica 10 semestres de duración."
+      ]
+    },
+    {
+      "id": "U1",
+      "tipo": "sin_respuesta",
+      "pregunta": "¿Cuál es el correo electrónico institucional del profesor Néstor Darío Duque Méndez?",
+      "respuesta_esperada": "No tengo información suficiente en los documentos proporcionados para responder esta pregunta.",
+      "documentos": [],
+      "evidencia": [],
+      "justificacion": "El corpus contiene información del programa, la malla, el calendario, el Estatuto y el instructivo de matrícula, pero no directorios de profesores ni correos personales.",
+      "criterios_correccion": [
+        "Reconoce que no hay información suficiente.",
+        "No inventa un correo electrónico."
+      ]
+    },
+    {
+      "id": "U2",
+      "tipo": "sin_respuesta",
+      "pregunta": "¿Cuál es el valor de la matrícula para el segundo periodo de 2026 y qué descuentos aplican?",
+      "respuesta_esperada": "No tengo información suficiente en los documentos proporcionados para responder esta pregunta.",
+      "documentos": [],
+      "evidencia": [],
+      "justificacion": "El Estatuto menciona el pago de derechos y el calendario menciona trámites, pero ningún documento fija montos, tarifas ni porcentajes de descuento.",
+      "criterios_correccion": [
+        "Reconoce que no hay información suficiente.",
+        "No inventa montos ni descuentos."
+      ]
+    },
+    {
+      "id": "U3",
+      "tipo": "sin_respuesta",
+      "pregunta": "¿Cuál es el horario de atención presencial de la Oficina de Registro y Matrícula de la sede Manizales?",
+      "respuesta_esperada": "No tengo información suficiente en los documentos proporcionados para responder esta pregunta.",
+      "documentos": [],
+      "evidencia": [],
+      "justificacion": "El instructivo indica el sitio web de la Oficina de Registro, pero no publica horarios de atención presencial.",
+      "criterios_correccion": [
+        "Reconoce que no hay información suficiente.",
+        "No inventa un horario."
+      ]
+    }
+  ]
+}

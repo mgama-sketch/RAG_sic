@@ -1,0 +1,7 @@
+﻿configuracion,n,evidencia_recuperada_6,evidencia_contexto_6,correccion_6,correccion_pct,respaldo_citas,respaldo_citas_pct,abstencion_3,abstencion_detectada_3,falsas_abstenciones_6,tiempo_medio_s,tiempo_mediana_s,tiempo_p95_s,tokens_prompt_medio,costo_total_usd,errores
+C0,9,,,2,33.3,no aplica,,3,0,0,1.553,1.477,2.02,148.8,0.000647,0
+E1,9,3.0,3.0,2,33.3,4/4,100.0,3,3,3,1.337,1.214,1.899,2169.7,0.003047,0
+E2,9,4.0,4.0,3,50.0,4/5,80.0,3,3,2,1.452,1.045,3.598,2289.2,0.007118,0
+R0,9,4.0,4.0,3,50.0,4/5,80.0,3,3,3,2.772,1.56,8.992,2166.0,0.003032,0
+R1,9,3.0,3.0,3,50.0,5/5,100.0,3,3,3,1.258,1.192,1.676,1386.8,0.002076,0
+R2,9,5.0,5.0,4,66.7,6/6,100.0,3,3,1,1.344,1.318,1.783,2069.7,0.003044,0

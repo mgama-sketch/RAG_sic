@@ -1,0 +1,48 @@
+{
+  "archivos": 6,
+  "formatos": [
+    "DOCX",
+    "PDF"
+  ],
+  "paginas_pdf": 38,
+  "unidades": 68,
+  "caracteres": 74163,
+  "detalle": [
+    {
+      "archivo": "calendario-academico-pregrado.pdf",
+      "formato": "PDF",
+      "unidades": 6,
+      "caracteres": 11626
+    },
+    {
+      "archivo": "estatuto_estudiantil.pdf",
+      "formato": "PDF",
+      "unidades": 14,
+      "caracteres": 33331
+    },
+    {
+      "archivo": "faq_estudiantil.md",
+      "formato": "DOCX",
+      "unidades": 30,
+      "caracteres": 9353
+    },
+    {
+      "archivo": "InstructivoMatriula.pdf",
+      "formato": "PDF",
+      "unidades": 14,
+      "caracteres": 9718
+    },
+    {
+      "archivo": "MallaCurricularAcuerdo05del2023.pdf",
+      "formato": "PDF",
+      "unidades": 1,
+      "caracteres": 3845
+    },
+    {
+      "archivo": "programa_admon_sistemas..pdf",
+      "formato": "PDF",
+      "unidades": 3,
+      "caracteres": 6290
+    }
+  ]
+}
